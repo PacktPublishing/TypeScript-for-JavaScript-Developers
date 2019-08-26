@@ -1,32 +1,43 @@
-# Cisco Voice Solutions for Small and Medium-Sized Enterprises SME - CUCME [Video]
-This is the code repository for [Cisco Voice Solutions for Small and Medium-Sized Enterprises SME - CUCME [Video]](https://www.packtpub.com/application-development/cisco-voice-solutions-small-and-medium-sized-enterprises-sme-cucme-video?utm_source=github&utm_medium=repository&utm_campaign=9781788476188), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# TypeScript for JavaScript Developers [Video]
+This is the code repository for [TypeScript for JavaScript Developers	 [Video]](https://www.packtpub.com/web-development/typescript-for-javascript-developers-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-Medium-sized business demands the reliability and high performance of large organizations, and the cost effectiveness of small businesses, to help them deal with competition efficiently. Cisco provides the necessary hardware and software to enable small- to medium-sized enterprises to build and maintain efficient voice and digital networks and empower the smooth running of your business. You will start by exploring the hardware options provided by Cisco to build your SME Voice Network. You will learn to set up Cisco command-line interface connections, and work with the hardware feature sets that fulfill your organization's various needs. From there, you will explore the different software you'll need for your network. You will learn to work with the Cisco Unified Communication Manager Express, Cisco Unity, and Cisco Configuration Professional Express, as well as the different file sets you will encounter on a daily basis. After that, you will learn to design your SME topology, and configure various devices for your network. You will set up your own dial plans, and also set up accounts with the help of the Cisco GUI Admin. Finally, you will learn to use Cisco Unity Connection to manage voice calls and messages over your organization's network. By the end of this tutorial, you will have mastered building, securing, and maintaining your own voice network for small- to medium-sized enterprises.
+TypeScript and JavaScript are must-know languages for many web developers. While JavaScript is the de facto choice for web development, this course will show you why you need TypeScript to make your code more efficient.
+This course is designed to get you started with TypeScript and help you implement a variety of real-world coding examples. In this course, you will learn how to convert several JavaScript code samples into TypeScript and master how these relate to JavaScript. You will learn the essentials of TypeScript such as objects, functions, and classes and appreciate the similarities and differences between the JavaScript and TypeScript syntaxes. In addition, you will learn how to configure Typescript projects according to your needs and implement best practices.
+By the end of this course, you will be confident to start your projects in TypeScript. You will have the skills you need to utilize TypeScript for writing better frontends for your web apps.
 
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Create and maintain your GUI connections 
-<LI>Work with virtual solutions for your large enterprise voice network with the help of VMWare 
-<LI>Manage your network’s DHCP and DNS dependencies 
-<LI>Set up different dial plans and manage your network’s users 
-<LI>Handle network connectivity with the help Cisco’s Unified Mobility Features 
-<LI>Ensure quality of service and security over your network 
-<LI>Set up and configure Cisco Unity Connection to manage voicemail over your network </LI></UL></DIV>
+<LI>Configure the TypeScript environment to run and transpile your code into JavaScript
+<LI>Implement basic TypeScript types to perform simple operations
+<LI>Structure code using interfaces to define the shape of objects effectively
+<LI>Write dynamic code with the help of generics
+<LI>Maintain a modular structure and reduce complexity using object-oriented programming
+<LI>Create dependencies using namespaces and modules 
+<LI>Implement advanced types to help you define more specific types </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Targeting network engineers with a basic understanding of network topologies and how they work, this video course is also for anyone who wants to learn how to set up an efficient, scalable network for small- to medium-sized enterprises with the help of Cisco's networking solutions.	
+This course is suitable for JavaScript developers and aspiring web developers with pre-existing skills in JavaScript, and for anyone keen to add TypeScript to their skillset and get hands-on with both TypeScript and JavaScript.	
+
 ### Technical Requirements
-This course has the following software requirements:<br/>
-CISCO
+Minimum Hardware Requirements
+For successful completion of this course, students will require the computer systems with at least the following:
+Processor: Dual-Core
+Memory: 2 GB of RAM 
 
-## Related Products
-* [Cisco Voice Solutions for Medium to Large Enterprise MLE - CUCM [Video]](https://www.packtpub.com/application-development/cisco-voice-solutions-medium-large-enterprise-mle-cucm-video?utm_source=github&utm_medium=repository&utm_campaign=9781788476263)
+Storage: 1 GB of free hard drive space
 
-* [Cisco Voice Solutions for Small and Medium-Sized Enterprises SME - CUCME [Video]](https://www.packtpub.com/application-development/cisco-voice-solutions-small-and-medium-sized-enterprises-sme-cucme-video?utm_source=github&utm_medium=repository&utm_campaign=9781788476188)
+Recommended Hardware Requirements
+For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
+Processor: Quad-Core or more
+Memory: 6 GB of RAM
+Storage: 4 GB of free hard drive space
+Software Requirements
+Latest chrome browser
+Code editor such as VSCode, Atom, or Notepad++
 
-* [Cisco Voice Solutions for Small and Medium-Sized Enterprises SME - CUCME [Video]](https://www.packtpub.com/application-development/cisco-voice-solutions-small-and-medium-sized-enterprises-sme-cucme-video?utm_source=github&utm_medium=repository&utm_campaign=9781788476188)
+
 
